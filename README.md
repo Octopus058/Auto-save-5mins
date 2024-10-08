@@ -20,10 +20,14 @@ See below 👇
 
 ## Next?
 
-Hmm... I didn't expect there to be any room for updates. If there are any problems, please submit your **issues**. Thank you very much!
+Hmm... I didn't expect there to be any room for updates. If there are any problems, please submit your **issues** and **PRs**. Thank you very much!
 
 ## Credit
 
 [@sierxing](https://github.com/sierxing)
 
 [OAOSS-CUP](https://github.com/OAOSS-CUP)
+
+## License
+
+This project is licensed under the GPL-3.0 License.

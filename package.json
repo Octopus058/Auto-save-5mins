@@ -1,5 +1,5 @@
 {
-  "name": "auto_save_5mins",
+  "name": "auto-save-5mins",
   "displayName": "Auto Save 5mins",
   "description": "Save your projects every 5 minutes automatically.",
   "version": "0.0.1",

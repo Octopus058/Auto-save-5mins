@@ -1,8 +1,13 @@
 {
-  "name": "auto-save",
-  "displayName": "auto save",
+  "name": "auto_save_5mins",
+  "displayName": "Auto Save 5mins",
   "description": "Save your projects every 5 minutes automatically.",
   "version": "0.0.1",
+  "publisher": "Oct0pu5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Octopus058/Auto-save-5mins.git"
+  },
   "engines": {
     "vscode": "^1.94.0"
   },

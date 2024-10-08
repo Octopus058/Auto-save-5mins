@@ -1,10 +1,11 @@
 {
   "name": "auto-save-5mins",
   "displayName": "Auto Save 5mins",
-  "description": "Save your projects every 5 minutes automatically.",
-  "version": "0.0.3",
+  "description": "Save your projects automatically.",
+  "version": "0.0.4",
   "publisher": "Oct0pu5",
   "icon": "icon.png",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/Octopus058/Auto-save-5mins.git"

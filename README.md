@@ -1,6 +1,6 @@
 <div align="center">
 
-# Auto save
+# Auto save 5mins
 >Save your projects automatically :>
 
 </div>
